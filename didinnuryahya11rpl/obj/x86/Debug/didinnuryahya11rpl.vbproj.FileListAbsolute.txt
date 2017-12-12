@@ -1,0 +1,16 @@
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.Resources.resources
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.vbproj.GenerateResource.Cache
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\bin\Debug\didinnuryahya11rpl.exe
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\bin\Debug\didinnuryahya11rpl.pdb
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\bin\Debug\didinnuryahya11rpl.xml
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.exe
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.xml
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.pdb
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.buku.resources
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.pembeli.resources
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.transaksi.resources
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.home.resources
+C:\Users\Didin\Documents\didinnuryahya11rpl\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya.Login.resources
+C:\Users\Didin\Downloads\bookstorerelation\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.exe
+C:\Users\Didin\Downloads\bookstorerelation\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.xml
+C:\Users\Didin\Downloads\bookstorerelation\didinnuryahya11rpl\obj\x86\Debug\didinnuryahya11rpl.pdb
